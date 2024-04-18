@@ -16,3 +16,4 @@
 [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ![Migueldossantoss GitHub stats](https://github-readme-stats.vercel.app/api?username=Migueldossantoss&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueldossantoss&hide_progress=true)
